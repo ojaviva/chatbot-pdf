@@ -28,7 +28,7 @@ OPENAI_API_KEY="tu_clave_aquí"
 ```bash
 git clone https://github.com/ojaviva/chatbot-pdf.git
 cd chatbot-pdf
-python app.py
+python chatbot.py
 ```
 
 ## 📜 Archivo de Dependencias (`requirements.txt`)
